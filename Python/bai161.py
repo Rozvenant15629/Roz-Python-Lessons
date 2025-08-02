@@ -1,0 +1,5 @@
+n = input("enter a hex number: ")
+decimal_number = int(n, 16)
+print("decimal:", decimal_number)
+print("binary:", format(decimal_number, "b"))
+print("octal:", format(decimal_number, "o"))

@@ -1,0 +1,5 @@
+n = float(input("enter a float number: "))
+interger = int(n)
+decimal = n - int(n)
+print("interger:", interger)
+print("decimal:", round(decimal, 2))

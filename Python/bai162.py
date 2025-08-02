@@ -1,0 +1,5 @@
+n = input("enter a binary number: ")
+i = int(n, 2)
+print("decimal:", i)
+print("octal:", format(i, "o"))
+print("hexadecimal:", format(i, "x"))

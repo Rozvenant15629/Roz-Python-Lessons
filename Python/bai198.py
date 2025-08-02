@@ -1,0 +1,6 @@
+n = float(input("enter a float number: "))
+count = int(input("how many count do u want: "))
+decimals = n - int(n)
+decimal_part = int(decimals * 10 ** count)
+total = sum(int(ch) for ch in str(decimal_part))
+print("TOTAL:", total)

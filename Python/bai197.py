@@ -1,0 +1,6 @@
+n = float(input("enter a float number: "))
+decimals = n - int(n)
+nums = int(decimals * 100000)
+dr = str(nums)
+total = sum(int(ch) for ch in dr)
+print(total)

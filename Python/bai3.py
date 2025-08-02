@@ -1,0 +1,6 @@
+a = int(input("nhap so a: "))
+b = int(input("nhap so b "))
+print("tong la", a + b)
+print("hieu la", a - b)
+print("tich la", a * b)
+print("thuong la", a / b)

@@ -1,0 +1,5 @@
+chuoi = input("nhap danh sach: ")
+ds = list(map(int, chuoi.split(",")))
+ds_dao = list(reversed(ds))
+print("danh sach ban dau:", ds)
+print("danh sach dao:", ds_dao)

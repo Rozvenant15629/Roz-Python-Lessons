@@ -1,0 +1,6 @@
+n = input("enter a number ( can be 0b, 0o, 0x or decimal ): ")
+decimal = int(n, 0)
+print("decimal:", decimal)
+print("binary:", format(decimal, "b"))
+print("octal:", format(decimal, "o"))
+print("hexadecimal:", format(decimal, "X"))

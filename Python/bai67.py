@@ -1,0 +1,6 @@
+chuoi = input("nhap cac so nguyen: ")
+ds = list(map(int, chuoi.split(",")))
+print("so lon nhat la:", max(ds))
+print("so be nhat la:", min(ds))
+print("tong cac chu so la:", sum(ds))
+print("trung binh cong cua cac so trong danh sach la:", sum(ds) / len(ds))

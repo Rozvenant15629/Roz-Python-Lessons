@@ -1,0 +1,5 @@
+n = input("enter a octal number: ")
+i = int(n, 8)
+print("decimal:", i)
+print("binary:", format(i, "b"))
+print("hexadecimal:", format(i, "X"))

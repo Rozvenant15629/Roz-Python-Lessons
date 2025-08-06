@@ -36,9 +36,12 @@ If you're also on a coding journey or just curious, feel free to follow, fork, o
 ## 💬 Connect with me
 Feel free to follow my journey or reach out for collabs & questions!
 
-📘 Facebook: https://www.facebook.com/profile.php?id=61578887038769
-📨 Telegram: https://t.me/rozvenant
-🌐 GitHub: https://github.com/Rozvenant15629
+📘 Facebook:
+https://www.facebook.com/profile.php?id=61578887038769
+📨 Telegram:
+https://t.me/rozvenant
+🌐 GitHub:
+https://github.com/Rozvenant15629
 
 ---
 
